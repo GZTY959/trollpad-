@@ -6,5 +6,5 @@ Description: Enable iPadOS app switching animation on iPhone for iOS 16 rootless
 Maintainer: Your Name <your@email.com>
 Author: Your Name
 Section: Tweaks
-Depends: libhooker | mobilesubstrate # 根据越狱工具选择依赖
+Depends: EllEkit | mobilesubstrate # 根据越狱工具选择依赖
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
