@@ -1,0 +1,7 @@
+iPadOSAnimation/
+├── Makefile
+├── Tweak.xm
+├── TPPrefsObserver.h
+├── TPPrefsObserver.m
+└── control
+​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
